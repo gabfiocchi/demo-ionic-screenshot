@@ -1,0 +1,1 @@
+# taking screenshots on ionic
